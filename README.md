@@ -1,13 +1,13 @@
 # Fitness App
 
-![Image description](https://imgur.com/a/4Ks8dqg)
+![](https://imgur.com/a/4Ks8dqg)
 
 
 ## Try it Live!
 
 Explore the Fitness App  (https://youronlinecoach.netlify.app/).
 
-![Image description](https://imgur.com/a/F5LohQ5)
+![](https://imgur.com/a/F5LohQ5)
 
 ## Description
 
