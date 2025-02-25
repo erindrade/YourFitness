@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Fitness App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://imgur.com/a/LloNXSm)
 
-## Available Scripts
+## Try it Live!
 
-In the project directory, you can run:
+Explore the Fitness App  (https://youronlinecoach.netlify.app/).
+![](https://imgur.com/a/Kxqp8qG)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Fitness App is a comprehensive fitness tool designed to help users stay healthy and achieve their fitness goals. It provides a wide range of exercises for all parts of the body, along with useful features like a BMI calculator, calorie calculator, and instructional videos for each exercise. The app is built using React, ensuring a smooth and interactive user experience.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react): JavaScript library for building user interfaces.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1.Exercise Database: Explore exercises for all parts of the body with detailed information on how to perform them.
 
-### `npm run eject`
+2.BMI Calculator: Calculate your Body Mass Index to understand your fitness level.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3.Calorie Calculator: Estimate your daily calorie needs based on your activity level and goals.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4.Exercise Videos: Watch instructional videos for each exercise to learn proper form and technique.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+5.Interactive Interface: Click on exercises to view step-by-step guides and videos.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Installation
 
-## Learn More
+1. Clone the repository:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   git clone https://github.com/your-username/fitness-app.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2.Navigate to the project directory:
 
-### Code Splitting
+cd fitness-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3.Install dependencies:
 
-### Analyzing the Bundle Size
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4.Running the Application
 
-### Making a Progressive Web App
+  -Start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+npm start
 
-### Advanced Configuration
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1.Browse Exercises: Click on exercises to view detailed instructions and videos for different body parts.
 
-### Deployment
+2.Calculate BMI: Enter your details to calculate your Body Mass Index.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+3.Calculate Calories: Input your activity level and goals to estimate daily calorie intake.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+4.Watch Videos: View instructional videos to help you perform exercises with correct form.
