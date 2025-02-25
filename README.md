@@ -1,6 +1,6 @@
 # Fitness App
 
-![](https://imgur.com/a/4Ks8dqg.png)
+![](https://imgur.com/4u1sDyx.png)
 
 
 ## Try it Live!
