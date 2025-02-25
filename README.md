@@ -7,7 +7,7 @@
 
 Explore the Fitness App  (https://youronlinecoach.netlify.app/).
 
-![](https://imgur.com/a/F5LohQ5)
+![](https://imgur.com/dBEoqbC.png)
 
 ## Description
 
